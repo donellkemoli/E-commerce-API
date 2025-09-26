@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.NuGet.Config
+
+# Rider/Resharper
+.idea/
+*.DotSettings
+
+# Others
+*.log
+*.cache
+*.db
+*.tmp
